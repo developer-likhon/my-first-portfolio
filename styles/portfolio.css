@@ -167,7 +167,7 @@ main section {
   gap: 24px;
 }
 
-..experience-sub-title {
+.experience-sub-title {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 20px;
