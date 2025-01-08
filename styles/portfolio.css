@@ -213,3 +213,8 @@ footer textarea {
   margin-bottom: 24px;
   border: none;
 }
+
+.social-icons {
+  display: flex;
+  gap: 50px;
+}
